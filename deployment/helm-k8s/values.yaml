@@ -18,6 +18,7 @@ service:
 
 ingress:
   host: dotnet-k8s-helm-sample-sample-projects.192.168.99.100.nip.io
+  pathType: Prefix
 
 namespace: sample-projects
 
