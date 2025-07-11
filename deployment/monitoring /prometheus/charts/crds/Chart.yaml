@@ -1,5 +1,3 @@
 apiVersion: v2
 name: crds
-description: "A dummy subchart to satisfy Helm dependency requirements."
-type: application
-version:  0.0.0
+version: 0.0.0
